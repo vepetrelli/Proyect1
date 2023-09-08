@@ -39,4 +39,3 @@ FROM PortfolioProyect1..['CovidDeaths']
 GROUP BY continent
 ORDER BY TotalDeathsCount desc
 
-https://www.youtube.com/watch?v=qfyynHBFOsM&t=404s&ab_channel=AlexTheAnalyst 38:05
